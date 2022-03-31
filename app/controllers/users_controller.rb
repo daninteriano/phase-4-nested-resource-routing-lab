@@ -6,3 +6,9 @@ class UsersController < ApplicationController
   end
 
 end
+
+#route to show all ITEMS for each user
+
+#show 1 ITEM with matching :id 
+
+#create a new item that belongs to a user 
